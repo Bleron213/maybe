@@ -156,6 +156,7 @@ module LanguagesHelper
   COUNTRY_MAPPING = {
     AF: "🇦🇫 Afghanistan",
     AL: "🇦🇱 Albania",
+    AL: "🇽🇰 Kosovo",
     DZ: "🇩🇿 Algeria",
     AD: "🇦🇩 Andorra",
     AO: "🇦🇴 Angola",
